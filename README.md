@@ -1,3 +1,8 @@
+# ARM Processor
+## 👥 Contributors
+* Faezeh Misaghi 
+* Artin Tavasoli 
+
 
 ## 📌 Overview
 
